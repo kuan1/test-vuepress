@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/test-vuepress/', // publicPath
   title: 'Hello VuePress', // 导航title
   description: 'Just playing around', // 网页描述
   themeConfig: {
